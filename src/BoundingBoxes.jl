@@ -1,0 +1,3 @@
+module BoundingBoxes
+
+end # module
