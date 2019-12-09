@@ -4,12 +4,15 @@ authors = ["Gustavo Goretkin <gustavo.goretkin@gmail.com>"]
 version = "0.1.1"
 
 [deps]
+GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
+NaNMath = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+julia = "^1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test"]
-
-[compat]
-julia = "^1"
