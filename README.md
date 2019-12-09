@@ -8,3 +8,5 @@
 ![Lifecycle](https://img.shields.io/badge/lifecycle-dormant-blue.svg) -->
 [![Build Status](https://travis-ci.com/goretkin/BoundingBoxes.jl.svg?branch=master)](https://travis-ci.com/goretkin/BoundingBoxes.jl)
 [![codecov.io](http://codecov.io/github/goretkin/BoundingBoxes.jl/coverage.svg?branch=master)](http://codecov.io/github/goretkin/BoundingBoxes.jl?branch=master)
+
+Axis-Aligned Bounding Boxes, parameterized by minimum and maximum.
